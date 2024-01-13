@@ -11,8 +11,8 @@ endif()
 
 set(PROJECT_NAME	"Minecraft_Open_Source")
 set(EXECUTABLE_NAME "MinecraftOS")
-set(GLFW_DIR		"include/glfw")
-set(GLM_DIR			"include/glm")
+set(GLFW_DIR		"external/glfw")
+set(GLM_DIR			"external/glm")
 
 project (${PROJECT_NAME})
 
